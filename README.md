@@ -102,7 +102,7 @@ python manage.py migrate
 python manage.py runserver
 
 Visit your API at:
-👉 http://127.0.0.1:8000/invoices/
+👉 http://127.0.0.1:8000/api/invoices/
 
 🧾 Example JSON Payload
 Create Invoice
